@@ -1,5 +1,7 @@
 opencv-python
 mediapipe>=0.10.0,<0.10.25
+numpy
 pygame
+scipy
 PyOpenGL
 PyOpenGL_accelerate
